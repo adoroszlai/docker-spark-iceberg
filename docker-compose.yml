@@ -17,4 +17,4 @@
 ---
 include:
   - iceberg.yml
-  - s3-minio.yml
+  - s3-ozone.yml
